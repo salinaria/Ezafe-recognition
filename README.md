@@ -1,4 +1,9 @@
 # Ezafe-recognition
+
+## Read publication
+[Read publication](https://ieeexplore.ieee.org/abstract/document/10139204/)
+
+## 
 In this project We recognize words that need Ezafe in Persian sentences
 
 We reached the state-of-the-art result after 40 epoch with 6e-6 learning rate with our ParsBert model
