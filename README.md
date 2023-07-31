@@ -2,12 +2,18 @@
 
 ## [Read publication](https://ieeexplore.ieee.org/abstract/document/10139204/)
 
-In this project We recognize words that need Ezafe in Persian sentences
 
-We reached the state-of-the-art result after 40 epoch with 6e-6 learning rate with our ParsBert model
 
-![alt text](https://github.com/aliaa80/Ezafe-recognition/blob/main/parsbert%20loss.png?raw=true)
+## Citation 
 
-Our model achieve 98.98% f1-score on words which need Ezafe.
-
-![alt text](https://github.com/aliaa80/Ezafe-recognition/blob/main/parsbert.png?raw=true)
+If you're using Ezafeh recognition in your research or applications, please cite using this BibTeX:
+```bibtex
+@INPROCEEDINGS{10139204,
+  author={Ansari, Ali and Ebrahimian, Zahra and Toosi, Ramin and Akhaee, Mohammad Ali},
+  booktitle={2023 9th International Conference on Web Research (ICWR)}, 
+  title={Persian Ezafeh Recognition using Transformer-Based Models}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={283-288},
+  doi={10.1109/ICWR57742.2023.10139204}}
