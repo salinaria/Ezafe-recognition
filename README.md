@@ -13,7 +13,7 @@ If you're using Ezafeh recognition in your research or applications, please cite
 @INPROCEEDINGS{10139204,
   author={Ansari, Ali and Ebrahimian, Zahra and Toosi, Ramin and Akhaee, Mohammad Ali},
   booktitle={2023 9th International Conference on Web Research (ICWR)}, 
-  title={Persian Ezafeh Recognition using Transformer-Based Models}, 
+  title={Persian Ezafe Recognition using Transformer-Based Models}, 
   year={2023},
   volume={},
   number={},
