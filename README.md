@@ -1,4 +1,4 @@
-# Ezafeh recognition
+# Persian Ezafe Recognition using Transformer-Based Models
 
 ## Abstract
 
